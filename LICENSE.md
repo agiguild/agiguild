@@ -7,7 +7,7 @@ Commercial Use Parameters:
 
 2. Definition of Commercial Use: Commercial use includes any revenue-generating activity that incorporates the Work directly or indirectly. Examples include but are not limited to the sale of products or services utilizing the software, the use of the software to provide services to third parties, and the integration of the Work into commercial offerings.
 
-Transition to Open Source [UNSURE IF NEEDED]:
+Transition to MIT:
 After a period of 4 years, this license will automatically convert to a fully open-source license agreed upon by the OSAI Guild, initially MIT, removing all commercial use restrictions and allowing unrestricted use of the software, including for commercial purposes.
 
 Mandatory Conditions:
