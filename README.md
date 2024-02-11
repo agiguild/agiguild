@@ -16,9 +16,9 @@ The US and some other countries are [considering legislation](https://www.whiteh
 
 ## The Solution: Collective Ownership License governed by $AGI token
 
-Today there are two popular licenses used for open source. The MIT license makes IP free for anyone to use, which means the contributors never see any reward for their work. At the other end of the spectrum, the GPL license is restrictive on available use, which means some companies opt not to use code under that license at all. This limits the impact and reach of open source software that might otherwise had positive impact and rewarded its developers.
+Today there are three popular licenses used for open source: MIT, Apache and GPL ([source](https://www.mend.io/blog/open-source-licenses-trends-and-predictions/)). The GPL license is the most restrictive, requiring derivative works to be also open source, limiting the adoption by corporations and protecting the open source nature of the code. On the other end of the spectrum, we have the MIT license which enables anyone to use the code without restriction which results in high adoption but the contributors are not rewarded for the value produced. 
 
-We see a need for a new license that attempts to bridge the chasm between these two approaches, encouraging innovation while also rewarding contributors who choose to develop open source IP for the good of all. 
+We see a need for a new license that attempts to bridge the chasm between these approaches, encouraging innovation while also protecting and rewarding contributors who choose to develop open source IP for the good of all. 
 
 By developing a new type of open source license – the Collective Ownership License – that adequately rewards contributors in a cryptographically provable process, the OSAI Guild aims to shift the current economics of research and development in favor of more open and transparent approaches. 
 
@@ -36,7 +36,7 @@ This is a modified Business Source License (BSL) where the Guild (facilitated vi
 
 Read in more detail the [Token Economics](./token-economics.md).
 
-Open Source AI Guild is steward the funding of research and rewarding of contributors with a cryptographic token, $AGI. 
+Open Source AI Guild is stewarding the funding of research and rewarding of contributors with a cryptographic token, $AGI. 
 
 There are two primary users/holders of $AGI: 
  - Open Source contributors are given $AGI for their work. Initial distribution will be based on past contributions to Open Source AI.
