@@ -35,7 +35,7 @@ This does not apply to companies that have less than $1M in annual revenue. Guil
 
 Past $1M in annual revenue, organization must acquire and stake $AGI for at least 1 year proportionally to the annual revenue.
 
-The exact formula is `X * min(0, AnnualRevenue - 1,000,000)`, where `X` is specified by the Guild, but suggesting to start at `0.001`. 
+The exact formula is `X * max(0, AnnualRevenue - 1,000,000)`, where `X` is specified by the Guild, but suggesting to start at `0.001`. 
 
 For example, a company that makes $2m in ARR must stake $2k of $AGI that year in order to use all of IP licensed by Open Source AI Guild.
 
