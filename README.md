@@ -1,6 +1,6 @@
-# Open Source AI Guild
+# AGI Guild
 
-Open Source AI Guild (OSAI) is a guild of developers who believe that AI development must be open source. Members of the guild will make decisions about funding and research by participating in an open decision process.
+AGI Guild is a guild of developers who believe that AI development must be open source. Members of the guild will make decisions about funding and research by participating in an open decision process.
 
 This is a call for those interested in working on and defending open source AI to join the Guild and contribute to this repository.
 
@@ -28,7 +28,7 @@ By developing a new type of open source license – the Collective Ownership Lic
 
 The Collective Ownership License (COL) is designed to:
  - Allow anyone to build on top of the licensed technology for research, non profit or open source purposes.
- - Commercial organizations may use licensed Work under conditions specified by Open Source AI Guild. 
+ - Commercial organizations may use licensed Work under conditions specified by AGI Guild. 
 
 This is a modified Business Source License (BSL) where the Guild (facilitated via DAO software) can define commercial use terms.
 
@@ -44,8 +44,8 @@ There are two primary users/holders of $AGI:
 
 Commercial organizations that want to use IP owned by the Guild must stake $AGI token, in an amount proportional to their annual revenue. The exact formula can be X * min(0, revenue - 1,000,000), where X is specified by the Guild but suggesting to start at 0.001. 
 
-For example, a company that makes $2m in ARR must stake $2k of $AGI in order to use all of IP licensed by Open Source AI Guild.
+For example, a company that makes $2m in ARR must stake $2k of $AGI in order to use all of IP licensed by AGI Guild.
 
 ### Process for Open Source
 
-This will contain a detailed process how to receive funding from Open Source AI Guild and how members of the guild should be evaluating various projects.
+This will contain a detailed process how to receive funding from AGI Guild and how members of the guild should be evaluating various projects.
