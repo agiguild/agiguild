@@ -4,7 +4,7 @@ Open Source AI Guild will steward the funding of research and rewarding of contr
 
 There are two primary users/holders of $AGI: 
  - Open Source contributors are given $AGI for their work. Initial distribution will be based on past contributions to Open Source AI.
- - Companies with over $1m in revenue who are using software under the COL license must acquire and stake $AGI to use the software. Through staking $AGI, value will accrue to all $AGI holders.
+ - Companies with over $1m in revenue who are using software under the AGI license must acquire and stake $AGI to use the software. Through staking $AGI, value will accrue to all $AGI holders.
 
 ## Token distribution
 
@@ -37,7 +37,7 @@ Past $1M in annual revenue, organization must acquire and stake $AGI for at leas
 
 The exact formula is `X * max(0, AnnualRevenue - 1,000,000)`, where `X` is specified by the Guild, but suggesting to start at `0.001`. 
 
-For example, a company that makes $2m in ARR must stake $1k of $AGI that year in order to use all of IP licensed by Open Source AI Guild.
+For example, a company that makes $2m in ARR must stake $1k of $AGI that year in order to use all of IP licensed by AGI Guild.
 
 The flip side, is that these commercial organizations become voting members of the Guild and are able to direct funding to develop more valuable software, dataset or other work.
 
