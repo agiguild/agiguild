@@ -42,4 +42,4 @@ There are two primary users/holders of $AGI:
  - Open Source contributors are given $AGI for their work. Initial distribution will be based on past contributions to Open Source AI.
  - Companies with over $1m in annual revenue must acquire and stake $AGI to use the software licensed under AGI License. Through staking $AGI, value will accrue to all $AGI holders.
 
-Commercial organizations that want to use IP owned by the Guild must stake $AGI token, in an amount proportional to their annual revenue. The exact formula can be X * min(0, revenue - 1,000,000), where X is specified by the Guild but suggesting to start at 0.001. For example, a company that makes $2m in annual revenue must stake $2k of $AGI in order to use all of IP licensed by AGI Guild.
+Commercial organizations that want to use IP owned by the Guild must stake $AGI token, in an amount proportional to their annual revenue. The exact formula can be X * min(0, revenue - 1,000,000), where X is specified by the Guild but suggesting to start at 0.001. For example, a company that makes $2m in annual revenue must stake $1k of $AGI in order to use all of IP licensed by AGI Guild.
