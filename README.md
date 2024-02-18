@@ -4,7 +4,7 @@ AGI Guild is a group of developers who believe that AI development must be open 
 
 This is a call for those interested in working on and defending open source AI to join the Guild and contribute to this repository.
 
-Nominate projects by adding to [Awesome List](./awesome.md) via a Pull Request.
+Nominate projects by adding them to [AGI Projects List](./agi-projects.md) via a Pull Request.
 
 ## The Problem: Open Source AI Is In Trouble
 
