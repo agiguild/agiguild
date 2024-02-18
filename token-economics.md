@@ -1,6 +1,6 @@
 # $AGI token
 
-Open Source AI Guild will steward the funding of research and rewarding of contributors with a cryptographic token, $AGI. 
+AGI Guild will steward the funding of research and rewarding of contributors with a cryptographic token, $AGI. 
 
 There are two primary users/holders of $AGI: 
  - Open Source contributors are given $AGI for their work. Initial distribution will be based on past contributions to Open Source AI.
