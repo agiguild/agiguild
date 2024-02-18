@@ -1,6 +1,6 @@
 # Awesome Open Source AI
 
-Collection of awesome Open Source AI projects and companies. You must use OSAI Guild's Common Ownership License.
+Collection of awesome Open Source AI projects and companies that use AGI License.
 
 ## Tools
 
