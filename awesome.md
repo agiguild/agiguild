@@ -2,8 +2,6 @@
 
 Collection of awesome Open Source AI projects and companies that use AGI License.
 
-## Tools
-
-## Datasets
-
-## Models
+| Project Name | Github | License |
+| - | - | - |
+| TBD | TBD | TBD |
